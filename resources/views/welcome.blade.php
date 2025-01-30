@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Bajoš</title>
 
-    <link rel="stylesheet" href="/resources/css/css.css">
+<<<<<<< HEAD
+    <link rel="stylesheet" href="/resources/css/home.css">
 </head>
 <body>
     <header>
@@ -24,11 +25,18 @@
                 </a>
 
                 <form action="">
-                    <input type="text">
-                    <input type="submit">
+                    <input type="text" placeholder="kids for sale">
+                    <input type="submit" value="search">
                 </form>
             </div>
         </div>
+=======
+    <link rel="stylesheet" href="/resources/css/variables.css">
+</head>
+<body>
+    <header>
+        @include('inc.header')
+>>>>>>> 195d7563820cac917b9f70cd82c2953e785f534a
     </header>
 </body>
 </html>
