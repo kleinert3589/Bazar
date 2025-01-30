@@ -6,8 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bajoš</title>
 
-<<<<<<< HEAD
-    <link rel="stylesheet" href="/resources/css/home.css">
+    <link rel="stylesheet" href="/resources/css/css.css">
 </head>
 <body>
     <header>
@@ -25,18 +24,11 @@
                 </a>
 
                 <form action="">
-                    <input type="text" placeholder="kids for sale">
-                    <input type="submit" value="search">
+                    <input type="text">
+                    <input type="submit">
                 </form>
             </div>
         </div>
-=======
-    <link rel="stylesheet" href="/resources/css/variables.css">
-</head>
-<body>
-    <header>
-        @include('inc.header')
->>>>>>> 195d7563820cac917b9f70cd82c2953e785f534a
     </header>
 </body>
 </html>
